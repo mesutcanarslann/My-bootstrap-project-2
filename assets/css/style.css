@@ -1,0 +1,40 @@
+.br-lr {
+  border-radius: 5px 5px 0px 0px;
+}
+
+.mesage {
+  height: 10rem;
+}
+.logo {
+  color: darkslategrey;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+
+.feature {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 3rem;
+  width: 3rem;
+  font-size: 1.5rem;
+}
+.bg-color {
+  background-color: rgb(255, 87, 87) !important;
+}
+.hr-top {
+  border: 3px solid red;
+  width: 60%;
+}
+.box-hover:hover {
+  border: 1px solid gray !important;
+  cursor: pointer;
+  opacity: 0.8;
+}
+.ro-border img {
+  border: 1px solid gray;
+}
+
+.logo-png {
+  display: none;
+}
